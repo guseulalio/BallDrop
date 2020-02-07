@@ -20,7 +20,6 @@
 		9CCEA6E923E56B31000E68D9 /* BallVanishing.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9CCEA6DE23E56B31000E68D9 /* BallVanishing.sks */; };
 		9CCEA6EA23E56B31000E68D9 /* ObstacleCollision.sks in Resources */ = {isa = PBXBuildFile; fileRef = 9CCEA6DF23E56B31000E68D9 /* ObstacleCollision.sks */; };
 		9CCEA6EB23E56B31000E68D9 /* Obstacles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCEA6E023E56B31000E68D9 /* Obstacles.swift */; };
-		9CCEA6EC23E56B31000E68D9 /* ObstacleShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCEA6E123E56B31000E68D9 /* ObstacleShop.swift */; };
 		9CCEA6ED23E56B31000E68D9 /* PathShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCEA6E223E56B31000E68D9 /* PathShop.swift */; };
 		9CCEA6EE23E56B31000E68D9 /* Introspectral - Percussive Elements-04.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9CCEA6E423E56B31000E68D9 /* Introspectral - Percussive Elements-04.wav */; };
 		9CCEA6F023E56BC1000E68D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CCEA6EF23E56BC1000E68D9 /* Assets.xcassets */; };
@@ -42,7 +41,6 @@
 		9CCEA6DE23E56B31000E68D9 /* BallVanishing.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = BallVanishing.sks; sourceTree = "<group>"; };
 		9CCEA6DF23E56B31000E68D9 /* ObstacleCollision.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ObstacleCollision.sks; sourceTree = "<group>"; };
 		9CCEA6E023E56B31000E68D9 /* Obstacles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Obstacles.swift; sourceTree = "<group>"; };
-		9CCEA6E123E56B31000E68D9 /* ObstacleShop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObstacleShop.swift; sourceTree = "<group>"; };
 		9CCEA6E223E56B31000E68D9 /* PathShop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PathShop.swift; sourceTree = "<group>"; };
 		9CCEA6E423E56B31000E68D9 /* Introspectral - Percussive Elements-04.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Introspectral - Percussive Elements-04.wav"; sourceTree = "<group>"; };
 		9CCEA6EF23E56BC1000E68D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -90,7 +88,6 @@
 				9CCEA6CC23E56AA9000E68D9 /* Main.storyboard */,
 				9CCEA6E023E56B31000E68D9 /* Obstacles.swift */,
 				9CCEA6DF23E56B31000E68D9 /* ObstacleCollision.sks */,
-				9CCEA6E123E56B31000E68D9 /* ObstacleShop.swift */,
 				9CCEA6E223E56B31000E68D9 /* PathShop.swift */,
 				9CCEA6C623E56AA9000E68D9 /* Actions.sks */,
 				9CCEA6D123E56AAC000E68D9 /* LaunchScreen.storyboard */,
@@ -190,7 +187,6 @@
 				9CCEA6C923E56AA9000E68D9 /* GameScene.swift in Sources */,
 				9CCEA6CB23E56AA9000E68D9 /* GameViewController.swift in Sources */,
 				9CCEA6C323E56AA9000E68D9 /* AppDelegate.swift in Sources */,
-				9CCEA6EC23E56B31000E68D9 /* ObstacleShop.swift in Sources */,
 				9CCEA6EB23E56B31000E68D9 /* Obstacles.swift in Sources */,
 				9CCEA6E723E56B31000E68D9 /* LivesCounter.swift in Sources */,
 			);
